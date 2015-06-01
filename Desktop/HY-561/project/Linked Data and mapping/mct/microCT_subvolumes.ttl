@@ -1,0 +1,256 @@
+<http://www.ics.forth.gr/isl/hy561/scan-00001_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00001_rec-01_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00001_rec-01_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00001_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00001_rec-01_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00001_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00001_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00001_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00001_rec-01_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00001_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "Jaws only".
+<http://www.ics.forth.gr/isl/hy561/scan-00013_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00013_rec-01_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00013_rec-01_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00013_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00013_rec-01_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00013_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00013_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00013_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00013_rec-01_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00013_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "pharynx".
+<http://www.ics.forth.gr/isl/hy561/scan-00022_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00022_rec-01_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00022_rec-01_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00022_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00022_rec-01_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00022_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00022_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00022_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00022_rec-01_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00022_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "pharynx only".
+<http://www.ics.forth.gr/isl/hy561/scan-00023_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00023_rec-01_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00023_rec-01_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00023_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00023_rec-01_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00023_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00023_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00023_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00023_rec-01_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00023_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "jaws only".
+<http://www.ics.forth.gr/isl/hy561/scan-00023_rec-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00023_rec-02_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00023_rec-02_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00023_rec-02_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00023_rec-02_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00023_rec-02_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00023_rec-02.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00023_rec-02_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00023_rec-02_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00023_rec-02_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "Jaws only".
+<http://www.ics.forth.gr/isl/hy561/scan-00035_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00035_rec-01_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00035_rec-01_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00035_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00035_rec-01_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00035_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00035_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00035_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00035_rec-01_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00035_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "Jaws only".
+<http://www.ics.forth.gr/isl/hy561/scan-00035_rec-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00035_rec-02_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00035_rec-02_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00035_rec-02_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00035_rec-02_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00035_rec-02_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00035_rec-02.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00035_rec-02_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00035_rec-02_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00035_rec-02_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "Jaws only".
+<http://www.ics.forth.gr/isl/hy561/scan-00035_rec-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00035_rec-02_voi-02>.
+<http://www.ics.forth.gr/isl/hy561/scan-00035_rec-02_voi-02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00035_rec-02_voi-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00035_rec-02_voi-02".
+<http://www.ics.forth.gr/isl/hy561/scan-00035_rec-02_voi-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00035_rec-02.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00035_rec-02_voi-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00035_rec-02_voi-02.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00035_rec-02_voi-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "jaws, more cleanup".
+<http://www.ics.forth.gr/isl/hy561/scan-00036_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00036_rec-01_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00036_rec-01_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00036_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00036_rec-01_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00036_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00036_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00036_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00036_rec-01_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00036_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "Jaws only".
+<http://www.ics.forth.gr/isl/hy561/scan-00036_rec-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00036_rec-02_voi-02>.
+<http://www.ics.forth.gr/isl/hy561/scan-00036_rec-02_voi-02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00036_rec-02_voi-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00036_rec-02_voi-02".
+<http://www.ics.forth.gr/isl/hy561/scan-00036_rec-02_voi-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00036_rec-02.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00036_rec-02_voi-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00036_rec-02_voi-02.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00036_rec-02_voi-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "jaws only".
+<http://www.ics.forth.gr/isl/hy561/scan-00037_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00037_rec-01_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00037_rec-01_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00037_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00037_rec-01_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00037_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00037_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00037_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00037_rec-01_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00037_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "Jaws only".
+<http://www.ics.forth.gr/isl/hy561/scan-00037_rec-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00037_rec-02_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00037_rec-02_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00037_rec-02_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00037_rec-02_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00037_rec-02_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00037_rec-02.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00037_rec-02_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00037_rec-02_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00037_rec-02_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "Jaws only".
+<http://www.ics.forth.gr/isl/hy561/scan-00038_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00038_rec-01_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00038_rec-01_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00038_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00038_rec-01_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00038_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00038_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00038_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00038_rec-01_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00038_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "Jaws only".
+<http://www.ics.forth.gr/isl/hy561/scan-00040_rec-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00040-rec-04_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00040-rec-04_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00040-rec-04_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00040-rec-04_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00040-rec-04_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00040_rec-02.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00040-rec-04_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00040-rec-04_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00040-rec-04_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "Jaws only".
+<http://www.ics.forth.gr/isl/hy561/scan-00041_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00041_rec-01_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00041_rec-01_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00041_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00041_rec-01_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00041_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00041_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00041_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00041_rec-01_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00042_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00042_rec-01_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00042_rec-01_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00042_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00042_rec-01_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00042_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00042_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00042_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00042_rec-01_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00042_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00042_rec-01_voi-02>.
+<http://www.ics.forth.gr/isl/hy561/scan-00042_rec-01_voi-02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00042_rec-01_voi-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00042_rec-01_voi-02".
+<http://www.ics.forth.gr/isl/hy561/scan-00042_rec-01_voi-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00042_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00042_rec-01_voi-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00042_rec-01_voi-02.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00042_rec-01_voi-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "jaws only".
+<http://www.ics.forth.gr/isl/hy561/scan-00044_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00044_rec-01_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00044_rec-01_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00044_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00044_rec-01_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00044_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00044_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00044_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00044_rec-01_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00044_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "jaws only".
+<http://www.ics.forth.gr/isl/hy561/scan-00045_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00045_rec-01_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00045_rec-01_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00045_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00045_rec-01_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00045_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00045_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00045_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00045_rec-01_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00045_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "jaws only".
+<http://www.ics.forth.gr/isl/hy561/scan-00049_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00049_rec-01_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00049_rec-01_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00049_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00049_rec-01_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00049_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00049_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00049_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00049_rec-01_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00051_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00051_rec-01_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00051_rec-01_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00051_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00051_rec-01_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00051_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00051_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00051_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00051_rec-01_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00051_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00051_rec-01_voi-02>.
+<http://www.ics.forth.gr/isl/hy561/scan-00051_rec-01_voi-02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00051_rec-01_voi-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00051_rec-01_voi-02".
+<http://www.ics.forth.gr/isl/hy561/scan-00051_rec-01_voi-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00051_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00051_rec-01_voi-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00051_rec-01_voi-02.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00051_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00051_rec-01_voi-03>.
+<http://www.ics.forth.gr/isl/hy561/scan-00051_rec-01_voi-03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00051_rec-01_voi-03> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00051_rec-01_voi-03".
+<http://www.ics.forth.gr/isl/hy561/scan-00051_rec-01_voi-03> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00051_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00051_rec-01_voi-03> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00051_rec-01_voi-03.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00052_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00052_rec-01_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00052_rec-01_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00052_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00052_rec-01_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00052_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00052_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00052_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00052_rec-01_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00052_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00052_rec-01_voi-02>.
+<http://www.ics.forth.gr/isl/hy561/scan-00052_rec-01_voi-02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00052_rec-01_voi-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00052_rec-01_voi-02".
+<http://www.ics.forth.gr/isl/hy561/scan-00052_rec-01_voi-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00052_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00052_rec-01_voi-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00052_rec-01_voi-02.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00052_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00052_rec-01_voi-03>.
+<http://www.ics.forth.gr/isl/hy561/scan-00052_rec-01_voi-03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00052_rec-01_voi-03> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00052_rec-01_voi-03".
+<http://www.ics.forth.gr/isl/hy561/scan-00052_rec-01_voi-03> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00052_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00052_rec-01_voi-03> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00052_rec-01_voi-03.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00052_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00052_rec-01_voi-04>.
+<http://www.ics.forth.gr/isl/hy561/scan-00052_rec-01_voi-04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00052_rec-01_voi-04> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00052_rec-01_voi-04".
+<http://www.ics.forth.gr/isl/hy561/scan-00052_rec-01_voi-04> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00052_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00052_rec-01_voi-04> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00052_rec-01_voi-04.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00052_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00052_rec-01_voi-05>.
+<http://www.ics.forth.gr/isl/hy561/scan-00052_rec-01_voi-05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00052_rec-01_voi-05> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00052_rec-01_voi-05".
+<http://www.ics.forth.gr/isl/hy561/scan-00052_rec-01_voi-05> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00052_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00052_rec-01_voi-05> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00052_rec-01_voi-05.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00054_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00054_rec-01_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00054_rec-01_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00054_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00054_rec-01_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00054_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00054_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00054_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00054_rec-01_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00054_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00054_rec-01_voi-02>.
+<http://www.ics.forth.gr/isl/hy561/scan-00054_rec-01_voi-02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00054_rec-01_voi-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00054_rec-01_voi-02".
+<http://www.ics.forth.gr/isl/hy561/scan-00054_rec-01_voi-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00054_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00054_rec-01_voi-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00054_rec-01_voi-02.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00058_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00058_rec-01_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00058_rec-01_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00058_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00058_rec-01_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00058_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00058_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00058_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00058_rec-01_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00091-rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00091-rec-01_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00091-rec-01_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00091-rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00091-rec-01_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00091-rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00091-rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00091-rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00091-rec-01_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00091-rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "jaws only".
+<http://www.ics.forth.gr/isl/hy561/scan-00092-rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00092-rec-01_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00092-rec-01_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00092-rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00092-rec-01_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00092-rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00092-rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00092-rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00092-rec-01_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00092-rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "jaws only".
+<http://www.ics.forth.gr/isl/hy561/scan-00093_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00093-rec-01_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00093-rec-01_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00093-rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00093-rec-01_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00093-rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00093_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00093-rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00093-rec-01_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00093-rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "jaws only".
+<http://www.ics.forth.gr/isl/hy561/scan-00099_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00099_rec-01_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00099_rec-01_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00099_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00099_rec-01_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00099_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00099_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00099_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00099_rec-01_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00099_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "Jaws only".
+<http://www.ics.forth.gr/isl/hy561/scan-00103_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00103_rec-01_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00103_rec-01_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00103_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00103_rec-01_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00103_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00103_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00103_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00103_rec-01_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00103_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "jaws only".
+<http://www.ics.forth.gr/isl/hy561/scan-00106_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00106_rec-01_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00106_rec-01_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00106_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00106_rec-01_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00106_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00106_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00106_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00106_rec-01_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00106_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "Jaws only, with a tiny bit of surrounding tissue".
+<http://www.ics.forth.gr/isl/hy561/scan-00106_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00106_rec-01_voi-02>.
+<http://www.ics.forth.gr/isl/hy561/scan-00106_rec-01_voi-02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00106_rec-01_voi-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00106_rec-01_voi-02".
+<http://www.ics.forth.gr/isl/hy561/scan-00106_rec-01_voi-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00106_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00106_rec-01_voi-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00106_rec-01_voi-02.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00106_rec-01_voi-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "Pharyngeal area and jaws".
+<http://www.ics.forth.gr/isl/hy561/scan-00106_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00106_rec-01_voi-03>.
+<http://www.ics.forth.gr/isl/hy561/scan-00106_rec-01_voi-03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00106_rec-01_voi-03> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00106_rec-01_voi-03".
+<http://www.ics.forth.gr/isl/hy561/scan-00106_rec-01_voi-03> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00106_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00106_rec-01_voi-03> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00106_rec-01_voi-03.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00106_rec-01_voi-03> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "Only jaws without any surrounding tissue".
+<http://www.ics.forth.gr/isl/hy561/scan-00042_rec-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00042_rec-02_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00042_rec-02_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00042_rec-02_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00042_rec-02_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00042_rec-02_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00042_rec-02.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00042_rec-02_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00042_rec-02_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00042_rec-02_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "Jaws only".
+<http://www.ics.forth.gr/isl/hy561/scan-00042_rec-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00042_rec-02_voi-02>.
+<http://www.ics.forth.gr/isl/hy561/scan-00042_rec-02_voi-02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00042_rec-02_voi-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00042_rec-02_voi-02".
+<http://www.ics.forth.gr/isl/hy561/scan-00042_rec-02_voi-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00042_rec-02.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00042_rec-02_voi-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00042_rec-02_voi-02.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00042_rec-02_voi-02> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "Jaws only, but rotated to be transaxial".
+<http://www.ics.forth.gr/isl/hy561/scan-00132_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00132_rec-01_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00132_rec-01_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00132_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00132_rec-01_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00132_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00132_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00132_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00132_rec-01_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00132_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "body without tube".
+<http://www.ics.forth.gr/isl/hy561/scan-00216_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00216_rec-01_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00216_rec-01_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00216_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00216_rec-01_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00216_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00216_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00216_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00216_rec-01_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00216_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "cuttlebone only".
+<http://www.ics.forth.gr/isl/hy561/scan-00217_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00217_rec-01_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00217_rec-01_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00217_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00217_rec-01_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00217_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00217_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00217_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00217_rec-01_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00217_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "cuttlebone only".
+<http://www.ics.forth.gr/isl/hy561/scan-00259_rec-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC37_subvolume_has_reconID> <http://www.ics.forth.gr/isl/hy561/scan-00259_rec-01_voi-01>.
+<http://www.ics.forth.gr/isl/hy561/scan-00259_rec-01_voi-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MicroCT_Subvolumes>.
+<http://www.ics.forth.gr/isl/hy561/scan-00259_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC38_subvolumeID> "scan-00259_rec-01_voi-01".
+<http://www.ics.forth.gr/isl/hy561/scan-00259_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC39_subvolume_hasReconProduct> "scan-00259_rec-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00259_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC40_subvolumeScope> "scan-00259_rec-01_voi-01.zip".
+<http://www.ics.forth.gr/isl/hy561/scan-00259_rec-01_voi-01> <http://www.ics.forth.gr/isl/ontology/MarineTLO/MTC41_subvolumeCreatedBy> "jaw area".
