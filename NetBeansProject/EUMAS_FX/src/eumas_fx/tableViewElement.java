@@ -5,9 +5,7 @@
  */
 package eumas_fx;
 
-import javafx.beans.property.SimpleStringProperty;
-import javafx.beans.property.StringProperty;
-import javafx.scene.control.CheckBox;
+
 
 /**
  *
@@ -18,13 +16,11 @@ public class tableViewElement {
        
         private  String ruleID;
         private  String rule ;
-        private  CheckBox cbox;
-//        private final ObjectProperty<CheckBox> cbox;
+
         
         public tableViewElement(String ruleID, String rule){
             this.ruleID= ruleID;
             this.rule=rule;
-            this.cbox= new CheckBox();
         
         }
  
@@ -35,11 +31,7 @@ public class tableViewElement {
        public String getRule(){
            return this.rule;
        }
-       
-       public CheckBox getCbox(){
-           return this.cbox;
-       }
-       
+
        public void setRuleID(String ruleID){
            this.ruleID=ruleID;
        }

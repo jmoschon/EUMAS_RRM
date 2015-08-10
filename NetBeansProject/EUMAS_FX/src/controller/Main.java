@@ -58,10 +58,12 @@ public class Main {
         System.out.println(engine.isConsistentGeneral());
         System.out.println("=======================================");
         engine.returnIDset();
+
+
         
          //if the KB is inconsistent sent the KB to to the CR model
          conflict_resolution CR= new conflict_resolution(engine);
-//         CR.CRP(engine);
+         CR.CRP(engine);
 //         engine.print_inferted();
             
         

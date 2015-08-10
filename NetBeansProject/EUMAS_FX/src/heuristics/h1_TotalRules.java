@@ -21,31 +21,34 @@ import rule_engine.RuleEngine;
 public class h1_TotalRules {
     
     private rule_engine.RuleEngine originalKB;
-    private HashSet <rule_engine.RuleEngine> candidatesKB;
+    private HashMap <Integer,rule_engine.RuleEngine> candidatesKB;
     private int compromise_lvl ; 
     
     public h1_TotalRules(rule_engine.RuleEngine originalKB){
         this.originalKB=originalKB;
-        this.compromise_lvl=1;
+        this.compromise_lvl=-1;
         
     } 
     
-    public h1_TotalRules (HashSet <rule_engine.RuleEngine> candidatesKB){
+    public h1_TotalRules (HashMap<Integer,rule_engine.RuleEngine> candidatesKB){
         this.candidatesKB=candidatesKB;
     
     }
-   
+    public int getCompromiselvl(){
+         return this.compromise_lvl;
+    }
+    
     /**this is the core if the h1_TotalRules is the first for CMP to call
     * @param originalKB
      * @return core
     */
-    public ArrayList<RuleEngine> core(rule_engine.RuleEngine originalKB){
+    public HashMap<Integer,RuleEngine> core(rule_engine.RuleEngine originalKB){
 //        System.out.println("peos");
        
-        ArrayList <rule_engine.RuleEngine> candidatesKB = new ArrayList<>();
+        HashMap <Integer,rule_engine.RuleEngine> candidatesKB = new HashMap<>();
         int numbeOfRules = originalKB.returnIDset().size();
-        
-        for (int i=this.compromise_lvl; i<=numbeOfRules; i++){
+        int key=0;
+        for (int i=this.compromise_lvl; i<numbeOfRules; i++){
             System.out.println("=========>>>"+compromise_lvl);
             
             List<Integer>superset = originalKB.returnIDset();
@@ -59,16 +62,19 @@ public class h1_TotalRules {
                     KB.setInActive(ID);
                 }
                 KB.init_reasoner();
+
                 if (KB.isConsistentGeneral()){
                     KB.CheckPreferences();
-                    candidatesKB.add(KB);
+                                    System.out.print("h1 :");
+                        KB.print_inferted();
+                    candidatesKB.put(key++, KB);
                 }
             }
             if (!candidatesKB.isEmpty()){
                core(candidatesKB);
                if (RulesNumber(candidatesKB)==i)
                    this.compromise_lvl=i+1;
-                    return candidatesKB; 
+                return candidatesKB; 
             }
         }
         core(candidatesKB);
@@ -82,31 +88,59 @@ public class h1_TotalRules {
     /**this is the core if the h1_TotaleRules is not the first for CMP to call
      * @param candidatesKB
      */
-    public void core(ArrayList <rule_engine.RuleEngine> candidatesKB){
+    public void core(HashMap <Integer,rule_engine.RuleEngine> candidatesKB){
         
         ArrayList<Integer> rules_counter= new ArrayList<>();
-        for (int i=0 ; i<candidatesKB.size(); i++) {
-           rules_counter.add(countActiveRules(candidatesKB.get(i)));
+        ArrayList<Integer> cantidadeID = new ArrayList<>();
+        ArrayList<Integer> toberemoved = new ArrayList<>();
+        //System.out.println("candit size before: "+ candidatesKB.size());
+        for (int i :candidatesKB.keySet()) {
+           if(!rules_counter.isEmpty()){
+               if (countActiveRules(candidatesKB.get(i))<Collections.min(rules_counter)){
+                   rules_counter.removeAll(rules_counter);
+                   cantidadeID.removeAll(cantidadeID);
+                   rules_counter.add(countActiveRules(candidatesKB.get(i)));
+                   cantidadeID.add(i);
+               }
+               else if (countActiveRules(candidatesKB.get(i))==Collections.min(rules_counter)){
+                   rules_counter.add(countActiveRules(candidatesKB.get(i)));
+                   cantidadeID.add(i);
+               }
+           }
+           else{
+               rules_counter.add(countActiveRules(candidatesKB.get(i)));
+           }
+           
         }
-        for (int i=0 ; i <rules_counter.size(); i++){
-            if (rules_counter.get(i)> Collections.min(rules_counter)){
-                candidatesKB.remove(i);
+
+        for (int i : candidatesKB.keySet()){
+            if (!cantidadeID.contains(i)){
+                toberemoved.add(i);
             }
-        } 
-    
+        
+        }
+        for (int i : toberemoved){
+            candidatesKB.remove(i);
+        }
     }
     
-    
-    private Integer RulesNumber(ArrayList <rule_engine.RuleEngine> candidatesKB){
+    public void increaseCompromiselvl(){
+        this.compromise_lvl++;
+    }
+    private Integer RulesNumber(HashMap <Integer,rule_engine.RuleEngine> candidatesKB){
         ArrayList<Integer> rules_counter= new ArrayList<>();
-        for (int i=0 ; i<candidatesKB.size(); i++) {
+        for (int i:candidatesKB.keySet()) {
            rules_counter.add(countActiveRules(candidatesKB.get(i)));
         }
+        if (rules_counter.isEmpty()){
+        return 0;
+        }
+        
         return Collections.min(rules_counter);
     }
     private int countActiveRules(rule_engine.RuleEngine KB){
         
-        HashMap <Integer,HashMap<String,HashMap<String,Boolean>>>rules;
+        HashMap <Integer,HashMap<HashSet<String>,HashMap<String,Boolean>>>rules;
         HashMap <Integer,HashMap<String,HashMap<String,Boolean>>>preferences;
         HashMap <Integer,HashMap<String,Boolean>> facts;
         
@@ -118,7 +152,7 @@ public class h1_TotalRules {
         
         //count active rules 
         for (int i: rules.keySet()){
-            for (String str :rules.get(i).keySet()){
+            for (HashSet str :rules.get(i).keySet()){
                 for (String str1 : rules.get(i).get(str).keySet()){
                     if(!rules.get(i).get(str).get(str1)){
                         NumberOfInActiveRules++;
